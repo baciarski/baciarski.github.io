@@ -24,7 +24,7 @@ template = "homepage.html"
     <p class="homepage-hero-subtitle">Nomadic Journal Toward the Axis Mundi.</p>
 </div>
 
-# Features
+# Under construction!
 
 - [Light, dark, and auto themes](@/posts/configuration.md#theme-mode-theme)  
 - [Projects page](@/projects/_index.md)                                 
