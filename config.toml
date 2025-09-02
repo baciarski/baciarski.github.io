@@ -1,6 +1,6 @@
 base_url = "https://baciarski.github.io/"
-title = "baciarski"
-description = "This is an example description"
+title = "baciarski blog"
+description = "Journal towards axis mundi"
 build_search_index = true
 generate_feeds = true
 compile_sass = true
@@ -35,7 +35,7 @@ repo_url = "https://github.com/baciarski/apollo/tree/main/content/"
 
 menu = [
     { name = "/posts", url = "/posts", weight = 1 },
-    { name = "/projects", url = "/projects", weight = 2 },
+    { name = "/silva", url = "/silva", weight = 2 },
     { name = "/tags", url = "/tags", weight = 3 },
 ]
 
@@ -56,9 +56,5 @@ reverse = true
 enabled = false
 
 [extra.analytics.goatcounter]
-user = "your_user"
-host = "example.com" # default= goatcounter.com
-
-[extra.analytics.umami]
-website_id = "43929cd1-1e83...."
-host_url = "https://stats.mywebsite.com" # default: https://api-gateway.umami.dev/
+user = "baciarski"
+host = "goatcounter.com" # default= goatcounter.com

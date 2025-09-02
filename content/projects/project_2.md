@@ -1,5 +1,5 @@
 +++
-title = "Project 2"
+title = "Communication"
 description = "Example description"
 weight = 1
 
